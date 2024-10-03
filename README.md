@@ -7,7 +7,7 @@
 * Vulnerability
 * Vulnerability Detection Techniques
 
-## Contextual Language Model and Transfer Learning for Reentrancy Vulnerability Detection in Smart Contracts [le2023contextual]
+## Contextual Language Model and Transfer Learning for Reentrancy Vulnerability Detection in Smart Contracts [^le2023contextual]
 
 ```
 @inproceedings{le2023contextual,
@@ -26,4 +26,4 @@
 ![alt text](Image/Compare_result.png)
 ## References 
 
-[le2023contextual]: https://dl.acm.org/doi/abs/10.1145/3628797.3628945
+[^le2023contextual]: https://dl.acm.org/doi/abs/10.1145/3628797.3628945
